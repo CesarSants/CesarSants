@@ -56,7 +56,6 @@ Me chamo cesar. Sou um desenvolvedor em transição de carreira, buscando uma op
 ![Fetch API](https://img.shields.io/badge/Fetch%20API-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=fff)
 ![ORACLE CLOUD](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![APIREST](https://img.shields.io/badge/APIRest-259eca?style=for-the-badge&logo=api&logoColor=white)
 ![POSTMAN](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### ☁️ SERVIDORES JAVA
